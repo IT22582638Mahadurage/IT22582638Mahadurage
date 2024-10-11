@@ -76,12 +76,6 @@
 
 
 
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chamindu2001&theme=algolia" alt="chamindu2001"  /></p>
-
-
-
-<hr>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=chamindu2001&theme=juicyfresh&no-bg=true" />
